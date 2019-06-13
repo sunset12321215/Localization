@@ -54,7 +54,7 @@ final class ViewController: UIViewController {
         case 2:
             setPolishLanguage()
         default:
-            break
+            break;
         }
     }
 }
